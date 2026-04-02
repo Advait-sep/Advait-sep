@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Advait-sep 
-- 👀 I’m interested in ...  contributing
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...  -
-- 📫 How to reach me ... Whatsapp:9321441775
+- 📫 How to reach me ... Whatsapp:+91 9321441775
 
 <!---
 Advait-sep/Advait-sep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
